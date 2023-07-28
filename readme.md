@@ -1,4 +1,5 @@
 # JWT Authentication Starter (MERN)
+<img width="990" alt="main page" src="https://github.com/deepak14ri/JWT-Authentication/assets/49471265/1f7ebeb2-53d4-4bb3-9167-a193d8e95772">
 
 This is a starter app for a MERN stack application with authentication. This is for a SPA (Single Page Application) workflow that uses the [Vite](https://vite.dev) Build tool. 
 
@@ -58,3 +59,7 @@ npm run server
 cd frontend
 npm run build
 ```
+![updatepage](https://github.com/deepak14ri/JWT-Authentication/assets/49471265/766209fe-1826-4595-a928-d1502da39e7b)
+![Uploading main2.PNG…]()
+
+
