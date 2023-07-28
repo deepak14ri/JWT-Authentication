@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "_id": {
+        "$oid": "64c11f1f8bac3640b77f7f55"
+      },
+      "name": "Deepak Chaudhari",
+      "email": "deepak@gmail.com",
+      "password": "$2a$10$y/AVCsGwzdf9MSY3ZfE3G.nbxj3G6z6MNqhQrFy2AHPRz9M6PHuiW",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1690378015356"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1690385767483"
+        }
+      },
+      "__v": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64c13daccecf15d3d26a5645"
+      },
+      "name": "Vivek",
+      "email": "vivek@gmail.com",
+      "password": "$2a$10$o7qu5wne7ZRs7Ho69R65t.5/bddBLAmc9nz5OxECy90iJ2SiWEoKq",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1690385836091"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1690385866827"
+        }
+      },
+      "__v": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64c13daccecf15d3d26a5647"
+      },
+      "name": "Ravi",
+      "email": "ravi@gmail.com",
+      "password": "$2a$10$o7qu5wne7ZRs7Ho69R65t.5/bddBLAmc9nz5OxECy90iJ2SiWEoKq",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1690385836091"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1690385866827"
+        }
+      },
+      "__v": {
+        "$numberInt": "0"
+      }
+    }
+  ]
+}
