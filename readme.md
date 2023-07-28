@@ -59,6 +59,6 @@ cd frontend
 npm run build
 ```
 ![updatepage](https://github.com/deepak14ri/JWT-Authentication/assets/49471265/766209fe-1826-4595-a928-d1502da39e7b)
-![Uploading main2.PNG…]()
 
+![main2](https://github.com/deepak14ri/JWT-Authentication/assets/49471265/f43cee0f-e1dd-4d1d-b809-946b5815358a)
 
